@@ -55,6 +55,8 @@ $ yarn dev:server
 
 ```
 
+Outro ponto bem importante é que para testar a importação de um arquivo CSV, este arquivo deve seguir o seguinte [modelo](https://github.com/gdlopes/gostack11-desafio-06/blob/master/src/__tests__/import_template.csv).
+
 ### :pencil2: Para rodar os testes, basta utilizar o seguinte comando:
 
 ```bash
