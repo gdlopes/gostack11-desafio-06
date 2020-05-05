@@ -62,6 +62,10 @@ $ yarn dev:server
   $ yarn test
 ```
 
+## :boom: Agora, utilize o [Insomnia](https://insomnia.rest/) para ver tudo funcionando :)
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoStack%2011%20-%20Desafio%2006&uri=https%3A%2F%2Fgithub.com%2Fgdlopes%2Fgostack11-desafio-06%2Fblob%2Fmaster%2Fdesafio06.json)
+
 ### Thats it ! :wave:
 
 ---
